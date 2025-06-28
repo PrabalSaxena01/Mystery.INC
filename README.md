@@ -15,5 +15,6 @@ Cart page shows items with image price and remove option
 Total price is calculated and shown at the bottom of cart
 
 Theres no real payment system just frontend stuff.
-![index-screenshot](https://github.com/user-attachments/assets/08e4d93f-ea34-4ec3-8d88-19d010a7ddfe)
-![screenshot-cart](https://github.com/user-attachments/assets/f8657f79-3010-41ce-8ecd-a38ca2e04443)
+![index](https://github.com/user-attachments/assets/dd8aacda-cefb-4884-b147-18d1258b1618)
+![cart](https://github.com/user-attachments/assets/5c795b47-57fa-47fd-94bd-7a4937c0d557)
+
